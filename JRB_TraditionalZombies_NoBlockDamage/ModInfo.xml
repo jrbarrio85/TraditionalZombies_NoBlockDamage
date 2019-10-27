@@ -3,9 +3,9 @@
 <xml>
 	<ModInfo>
 		<Name value="JRB_TraditionalZombies_NoBlockDamage" />
-		<Description value="Removes AITasks that tell zombies to attack blocks, reduces block damage to 1" />
+		<Description value="Removes AITasks that tell zombies and animals to attack blocks, reduces block damage to 1" />
 		<Author value="jrbarrio" />
-		<Version value="8.0" />
+		<Version value="9.0" />
 
 	</ModInfo>
 </xml>
