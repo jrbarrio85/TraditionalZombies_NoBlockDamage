@@ -20,6 +20,8 @@
 	<remove xpath="/items/item[@name='meleeHandAnimalCoyote']/effect_group[@name='meleeHandAnimalCoyote']/passive_effect[@name='DamageModifier']" />
 	<!-- Vulture Vomit -->
 	<remove xpath="/items/item[@name='ammoProjectileVultureVomit']/effect_group[@name='ammoProjectileVultureVomit']/passive_effect[@name='DamageModifier']" />
+	<remove xpath="/items/item[@name='ammoProjectileVultureVomit']/effect_group[@name='ammoProjectileVultureVomit']/passive_effect[@name='DamageModifier']" />
+	<remove xpath="/items/item[@name='ammoProjectileVultureVomit']/effect_group[@name='ammoProjectileVultureVomit']/passive_effect[@name='DamageModifier']" />
 	<!-- Wolf -->
 	<remove xpath="/items/item[@name='meleeHandAnimalWolf']/effect_group[@name='meleeHandAnimalWolf']/passive_effect[@name='DamageModifier']" />
 
